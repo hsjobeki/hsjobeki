@@ -9,7 +9,7 @@ Improving the nix ecosystem and its adoption in corporate use-cases.
 
 Also, check out my recently created Blog https://werkbank.cloud
 
-- 📫 How to reach me: @johannes.kirschbauer:scs.ems.host
+- 📫 How to reach me: PM via [#johannes.kirschbauer:scs.ems.host](https://matrix.to/#/#johannes.kirschbauer:scs.ems.host)
 
 <!--
 **hsjobeki/hsjobeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
