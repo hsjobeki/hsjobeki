@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-Currently working on:
-
-Improving the nix ecosystem and its adoption in corporate use-cases.
-- Dream2nix: nodejs packaging with nix.
-- Noogle: Type-based search engine for Nix.
-- Research in nix 
+Passionate about tech stuff
 
 Also, check out my recently created Blog https://werkbank.cloud
 
