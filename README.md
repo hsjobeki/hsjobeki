@@ -1,22 +1,11 @@
 ### Hi there 👋
 
-Passionate about tech stuff
+🔍 Languages: Nix, TypeScript, Rust, Python, ...
+🌍 Open Source: Actively engaged with nix/nixos
+🤔 Mantra: Daring to ask the tough questions others shy away from. For me, developer productivity & experience are paramount.
+🤝 Culture: I thrive on clear communication and cherish partnerships built on mutual appreciation.
+💡 Expertise: Merging my background in build system DevOps with a flair for frontend and usability. Let's innovate together!
 
-Also, check out my recently created Blog https://werkbank.cloud
+Check out my recently created Blog https://hsjobeki.dev/blog
 
-- 📫 How to reach me: PM via [#johannes.kirschbauer:scs.ems.host](https://matrix.to/#/#johannes.kirschbauer:scs.ems.host)
-
-<!--
-**hsjobeki/hsjobeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reach me via matrix: [#johannes.kirschbauer:scs.ems.host](https://matrix.to/#/#johannes.kirschbauer:scs.ems.host)
