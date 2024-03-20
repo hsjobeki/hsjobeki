@@ -1,13 +1,20 @@
-### Hi there 👋
+# Greetings, Earthlings!
 
-🔍 Languages: Nix, TypeScript, Rust, Python, ...
+## 🚀 Quick Facts
 
-🌍 Open Source: Actively engaged with nix/nixos
+- **Nix Wizard**: I speak Nix fluently, and no, it's not a magic spell. Or is it?
+- **Coffee nerd**: I turn coffee into code. That's it.
+- **Frontend Charmer & System Tamer**: Making UIs and systems bend to my will, usually with a smile.
+- **Open Source Rebel**: Fighting for the open-source galaxy, one commit at a time in the Nix/NixOS universe.
 
-🤝 Culture: I thrive on clear communication and cherish partnerships built on mutual appreciation.
+## 🎯 On My Radar
 
-💡 Let's innovate together!
+Crafting more spells in Nix, taming the wild beasts of Rust and TypeScript, and sometimes accidentally breaking (and fixing) the internet.
 
--> Check out my recently created Blog https://hsjobeki.dev/blog
+## 📡 Signal Me!
 
--> Reach me via matrix: [#johannes.kirschbauer:scs.ems.host](https://matrix.to/#/#johannes.kirschbauer:scs.ems.host)
+- **Matrix**: Find me in the matrix (not the movie) at [#johannes.kirschbauer:scs.ems.host](https://matrix.to/#/#johannes.kirschbauer:scs.ems.host).
+- **Blog**: For laughs, gaffes, and a little bit of wisdom, check [my blog](https://hsjobeki.dev/blog).
+
+Let's code, laugh, and maybe cause a minor digital apocalypse together! 🤖
+
