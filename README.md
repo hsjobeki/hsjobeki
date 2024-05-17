@@ -16,5 +16,4 @@ Crafting more spells in Nix, taming the wild beasts of Rust and TypeScript, and 
 - **Matrix**: Find me in the matrix (not the movie) at [#johannes.kirschbauer:scs.ems.host](https://matrix.to/#/#johannes.kirschbauer:scs.ems.host).
 - **Blog**: For laughs, gaffes, and a little bit of wisdom, check [my blog](https://hsjobeki.dev/blog).
 
-Let's code, laugh, and maybe cause a minor digital apocalypse together! 🤖
 
