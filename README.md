@@ -1,15 +1,15 @@
-# Greetings, Earthlings!
+# Passion for declarative systems
 
-## 🚀 Quick Facts
+## Random Facts
 
-- **Nix Wizard**: I speak Nix fluently, and no, it's not a magic spell. Or is it?
+- **Nix Wizard**: 
 - **Coffee nerd**: I turn coffee into code. That's it.
-- **Frontend Charmer & System Tamer**: Making UIs and systems bend to my will, usually with a smile.
-- **Open Source Rebel**: Fighting for the open-source galaxy, one commit at a time in the Nix/NixOS universe.
+- **Frontend & Systems**: Making UIs and systems bend to my will, usually with a smile.
+- **Pragmatism > idealism**: Things that work over the same thing works better but only *theoretically*.
 
-## 🎯 On My Radar
+## 🎯 Upcomming
 
-Crafting more spells in Nix, taming the wild beasts of Rust and TypeScript, and sometimes accidentally breaking (and fixing) the internet.
+Crafting more spells.
 
 ## 📡 Signal Me!
 
