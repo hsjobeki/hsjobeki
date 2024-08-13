@@ -5,7 +5,7 @@
 - **Nix Wizard**: 
 - **Coffee nerd**: I turn coffee into code. That's it.
 - **Frontend & Systems**: Making UIs and systems bend to my will, usually with a smile.
-- **Pragmatism > idealism**: Things that work. Its not always worth to find a *hypothetical* path that is better.
+- **Pragmatism > idealism**: Make Things that work.
 
 ## 🎯 Upcomming
 
