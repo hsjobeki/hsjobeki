@@ -13,7 +13,7 @@ Crafting more spells.
 
 ## 📡 Signal Me!
 
-- **Matrix**: Find me in the matrix (not the movie) at [#johannes.kirschbauer:scs.ems.host](https://matrix.to/#/#johannes.kirschbauer:scs.ems.host).
+- **Matrix**: Find me in the matrix (not the movie) at [@hsjobeki:matrix.org](https://matrix.to/#hsjobeki:matrix.org)
 - **Blog**: For laughs, gaffes, and a little bit of wisdom, check [my blog](https://hsjobeki.dev/blog).
 
 
