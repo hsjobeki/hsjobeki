@@ -17,3 +17,4 @@ Crafting more spells.
 - **Blog**: For laughs, gaffes, and a little bit of wisdom, check [my blog](https://hsjobeki.dev/blog).
 
 
+Pubkey: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGLuev3+8kF+pd1YnCRR7Kw9i9DswOMvGhvdQq6dEIJF
